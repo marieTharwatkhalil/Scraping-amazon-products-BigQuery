@@ -1,4 +1,4 @@
-this code is for scraping amazon products to be analyzed by SQL BigQuery 
+**This Python code is for scraping amazon products to be analyzed by SQL BigQuery** 
 
 -First the user is asked to paste products links 
 
